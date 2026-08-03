@@ -5,7 +5,7 @@ An aspiring software developer from Turkey, focused on backend architectures, au
 ---
 
 ### 🚀 About Me:
-* 💻 **Currently Diving Deep Into:** Python, C#, and Lua.
+* 💻 **Currently Focusing Into:** Python, C#, and Lua.
 * 🛠️ **Engineering Interests:** Backend Development, Object-Oriented Programming (OOP), Custom Game Frameworks, Data Structures & Algorithms, Clean Code Architecture.
 * 🎯 **The Goal:** To master enterprise-level software design, focusing on highly optimized backend logic and high-performance production systems.
 
@@ -28,7 +28,7 @@ An aspiring software developer from Turkey, focused on backend architectures, au
 
 ---
 
-### 🌐 Connect & Find Me
+### 🌐 Connect And Find Me
 <p align="left">
   <a href="https://guns.lol/ashreigns" target="_blank">
     <img src="https://img.shields.io/badge/guns.lol-ashreigns-black?style=flat-square&logo=linktree&logoColor=white" alt="Guns.lol" />
