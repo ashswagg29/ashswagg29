@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yağız Arslan (Ash)
+# Hi, I'm Yağız Arslan (Ash)
 
 An aspiring software developer from Turkey, focused on backend architectures, automation, and game systems. Currently building frameworks and polishing engineering skills to create scalable tech solutions.
 
