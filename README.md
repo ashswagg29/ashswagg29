@@ -7,8 +7,8 @@ An aspiring software developer from Turkey, focused on backend architectures, au
 ### 🚀 About Me:
 * 💻 **Currently Focusing Into:** Python, C#, and Lua.
 * 🛠️ **Engineering Interests:** Backend Development, Object-Oriented Programming (OOP), Custom Game Frameworks, Data Structures & Algorithms, Clean Code Architecture.
-* 🎯 **The Goal:** To master enterprise-level software design, focusing on highly optimized backend logic and high-performance production systems.
-
+* 🎯 **The Goal:** Develop strong problem-solving skills, Create clean and functional projects, Prepare solid foundations for Computer Engineering
+  
 ---
 
 ### 🛠️ Tech Stack & Toolkit
